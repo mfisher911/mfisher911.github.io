@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mfisher
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://fisher.one
+  * I am mfisher (https://keybase.io/mfisher) on keybase.
+  * I have a public key ASCaeOMTA1kJFHAICuT649iS1OeN5Ndh32Lgvsze_K4JdAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101aa951a8b8cb4ccbf58a215396913d90523268c2136b432446bee67f3aea6a9470a",
+      "host": "keybase.io",
+      "kid": "01209a78e3130359091470080ae4fae3d892d4e78de4d761df62e0beccdefcae09740a",
+      "uid": "ddc1548b75752367aac67e0ae6b45a00",
+      "username": "mfisher"
+    },
+    "merkle_root": {
+      "ctime": 1674931597,
+      "hash": "9ff09ced70de1e6df29ce14778c61b7e5dc7c3cea26f0389b969af78de48013c1f152765cd3a413d1202a67348b8f46a6e1891b71ed12f8cb1b50b865b4bd6f4",
+      "hash_meta": "9a3842fadb094ad1c6dfe4ee7c97fa8432f27ecc67b0053c0afe9aadfede72bc",
+      "seqno": 23948967
+    },
+    "service": {
+      "entropy": "ilDLbwms3luQMPoZ2tCAAzMj",
+      "hostname": "fisher.one",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.4"
+  },
+  "ctime": 1674931732,
+  "expire_in": 504576000,
+  "prev": "8fb21682fa238887874e1650c5a9fab6d955d319076a447de3238c56e7614bb7",
+  "seqno": 72,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmnjjEwNZCRRwCArk+uPYktTnjeTXYd9i4L7M3vyuCXQKp3BheWxvYWTESpcCSMQgj7IWgvojiIeHThZQxan6ttlV0xkHakR94yOMVudhS7fEIJafT2G6THF0yftJoISG9BG5SvWLlc2PxnrOCCXCLVyQAgHCo3NpZ8RAkpuDXFZLU/Wjfgl38Kg6M6cE5snCXoTGPf3TT+gvnYp4IdPCu1JGoSS6Dpb/3YDhjnRlbKGzlxoCMknpi/0pAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJp9rVjZ6L6oQ7ysTtpYOB/sj3LbtS18EaL7UdN0XzGTo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mfisher
+
+==================================================================
